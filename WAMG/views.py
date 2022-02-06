@@ -108,6 +108,8 @@ def updateThings(request,names):
     print(context)
     return render(request, 'getdata.html', context)
 
+def sendMessage(request):
+    print('TEST')
 class HomePage(generic.ListView):
     model = contact
     template_name = "index.html"
