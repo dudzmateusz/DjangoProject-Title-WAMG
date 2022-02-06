@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e7775b6-80f6-4425-9af6-767ffd0ac4be" name="Changes" comment="WAMG">
+      <change afterPath="$PROJECT_DIR$/.idea/WAMGHeroku.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Django_Lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WAMG/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/WAMG/settings.py" afterDir="false" />
     </list>
@@ -97,7 +102,7 @@
       <workItem from="1643483013508" duration="606000" />
       <workItem from="1643533098871" duration="720000" />
       <workItem from="1643535075634" duration="1029000" />
-      <workItem from="1644147341768" duration="278000" />
+      <workItem from="1644147341768" duration="503000" />
     </task>
     <task id="LOCAL-00002" summary="WAMG">
       <created>1642693855689</created>
@@ -127,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644147376262</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="WAMG">
+      <created>1644147726609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644147726609</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
