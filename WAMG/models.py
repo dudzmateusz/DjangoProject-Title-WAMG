@@ -48,9 +48,9 @@ class things(models.Model):
                  ('9', '⚪'),
                  ]
     name = models.CharField(max_length=100,help_text ="Put name from your thing")
-    sku = models.CharField(max_length=30,help_text = "Put sku your thing")
-    ean = models.CharField(max_length=30,help_text = "Put ean your thing",blank=True)
-    color = models.CharField(max_length=30, choices=COLOR_LIST, default="Brak",blank=True)
+    sku = models.CharField(max_length=30,help_text = "Put sku your thing",default='-')
+    ean = models.CharField(max_length=30,help_text = "Put ean your thing",blank=True,default='-')
+    color = models.CharField(max_length=30, choices=COLOR_LIST, default='-',blank=True)
     note = models.CharField(max_length=200,help_text ="You can describe your thing here...",blank=True,default='-')
     date_add = models.DateField(auto_now=False, auto_now_add=False)
     place = models.CharField(max_length=30, choices=TYPE_LIST, default='2')

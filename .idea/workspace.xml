@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e7775b6-80f6-4425-9af6-767ffd0ac4be" name="Changes" comment="WAMG">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WAMG/templates/getdata.html" beforeDir="false" afterPath="$PROJECT_DIR$/WAMG/templates/getdata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WAMG/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/WAMG/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <workItem from="1643483013508" duration="606000" />
       <workItem from="1643533098871" duration="720000" />
       <workItem from="1643535075634" duration="1029000" />
-      <workItem from="1644147341768" duration="1770000" />
+      <workItem from="1644147341768" duration="3658000" />
     </task>
     <task id="LOCAL-00002" summary="WAMG">
       <created>1642693855689</created>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644147903595</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="WAMG">
+      <created>1644151423031</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644151423031</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
