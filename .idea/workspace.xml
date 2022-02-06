@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e7775b6-80f6-4425-9af6-767ffd0ac4be" name="Changes" comment="WAMG" />
+    <list default="true" id="2e7775b6-80f6-4425-9af6-767ffd0ac4be" name="Changes" comment="WAMG">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WAMG/templates/getdata.html" beforeDir="false" afterPath="$PROJECT_DIR$/WAMG/templates/getdata.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +97,7 @@
       <workItem from="1643483013508" duration="606000" />
       <workItem from="1643533098871" duration="720000" />
       <workItem from="1643535075634" duration="1029000" />
-      <workItem from="1644147341768" duration="553000" />
+      <workItem from="1644147341768" duration="1770000" />
     </task>
     <task id="LOCAL-00002" summary="WAMG">
       <created>1642693855689</created>
@@ -145,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644147877472</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="WAMG">
+      <created>1644147903595</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644147903595</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
